@@ -7,5 +7,7 @@ if revenue > costs:
     employee = int(input('Введите численность сотрудников фирмы: '))
     print(f'Прибыль фирмы в расчете на одного сотрудника = '
           f'{(revenue - costs) / employee}')
+elif revenue == costs:
+    print('Вы ничего не заработали и ничего не потеряли.')
 else:
     print(f'Финансовый результат - убыток. Его величина: {costs - revenue}')
