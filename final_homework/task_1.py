@@ -28,6 +28,6 @@ th_word=u'\u0434\u0435\u043a\u043e\u0440\u0430\u0442\u043e\u0440'
 print(type(f_word),type(sec_word),type(th_word))
 print(f_word, sec_word, th_word)
 
-
+#
 
 

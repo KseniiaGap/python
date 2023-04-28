@@ -7,4 +7,5 @@ for line in var:
     print('тип переменной: {}\n'.format(type(line)))
     print('содержимое переменой: {}\n'.format(line))
     print('длина строки: {}\n'.format(len(line)))
+#
 

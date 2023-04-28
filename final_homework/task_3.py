@@ -9,3 +9,4 @@ for line in ['attribute','класс','функция','type']:
                                                     'successful ')
     except:
         print(line,type(line),' - not valid input for bytes string')
+#

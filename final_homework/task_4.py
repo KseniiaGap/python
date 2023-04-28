@@ -8,3 +8,4 @@ for i in list_1:
     print(a, type(a))
     b = bytes.decode(a, encoding='utf-8')
     print(b, type(b))
+#
